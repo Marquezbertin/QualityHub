@@ -25,6 +25,7 @@ Citação:
 A qualidade pode ser analisada sob duas perspectivas:
 
 Qualidade do Produto: Características inerentes ao software, como desempenho e segurança.
+
 Qualidade do Processo: Métodos e práticas usados para desenvolver o software. Um processo de alta qualidade frequentemente resulta em um produto de alta qualidade (Pressman, Software Engineering: A Practitioner’s Approach).
 
 2. Modelo de Qualidade ISO/IEC 25010
