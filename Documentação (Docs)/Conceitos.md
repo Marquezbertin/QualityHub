@@ -36,22 +36,26 @@ Fonte: ISO/IEC 25010 Standard.
 
 3. Características de Qualidade
 
-3.1 Funcionalidade
+3.1 Funcionalidade : 
+
 O software deve atender aos requisitos e ser adequado ao propósito pretendido.
 
 Exemplo: Um sistema bancário deve garantir transações seguras e precisas.
 
-3.2. Desempenho
+3.2. Desempenho: 
+
 Refere-se ao tempo de resposta, throughput e uso eficiente de recursos.
 
 Fonte: Capítulo 8, Sommerville, Software Engineering.
 
-3.3. Usabilidade
+3.3. Usabilidade: 
+
 A facilidade com que o sistema pode ser usado por usuários específicos.
 
 Referência: Nielsen, J. (1993). Usability Engineering.
 
-3.4. Segurança
+3.4. Segurança: 
+
 Proteção contra acesso não autorizado e ataques.
 
 Referência: Bishop, M. (2004). Introduction to Computer Security.
