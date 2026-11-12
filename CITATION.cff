@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Se vocÃª usar este software, cite-o como abaixo."
-title: "Um reposit├│rio dedicado ├á qualidade e aos testes de software. Aprenda, explore e domine as melhores pr├íticas, ferramentas e frameworks para entregar software de alta qualidade."
+message: "Se você usar este software, cite-o como abaixo."
+title: "Um repositório dedicado à qualidade e aos testes de software. Aprenda, explore e domine as melhores práticas, ferramentas e frameworks para entregar software de alta qualidade."
 authors:
   - family-names: Marquez
     given-names: Bruno Bertin
